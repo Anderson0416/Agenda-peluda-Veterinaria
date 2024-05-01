@@ -1,0 +1,6 @@
+C:\Users\RYZEN\Desktop\c#\AgendaPeluda_Veterinaria\Entity\bin\Debug\Entity.dll
+C:\Users\RYZEN\Desktop\c#\AgendaPeluda_Veterinaria\Entity\bin\Debug\Entity.pdb
+C:\Users\RYZEN\Desktop\c#\AgendaPeluda_Veterinaria\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Desktop\c#\AgendaPeluda_Veterinaria\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\c#\AgendaPeluda_Veterinaria\Entity\obj\Debug\Entity.dll
+C:\Users\RYZEN\Desktop\c#\AgendaPeluda_Veterinaria\Entity\obj\Debug\Entity.pdb
